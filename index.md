@@ -8,6 +8,7 @@
   <body>
     <h1>Web Images</h1>
     
+   <img src="coral-reef.jpg" alt="orignial image jpg" />
    <p>Original Image: 1.9MB</p>
   
    <img src="coral-reef-low.jpg" alt="low quality jpg" />
