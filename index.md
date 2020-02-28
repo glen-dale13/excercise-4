@@ -13,7 +13,7 @@
    <img src="coral-reef-low.jpg" alt="low quality jpg" />
     <p>Low quality (%). File size: </p>
 
-   <img src="coral-reef-medium.jpg" alt="medium quality jpg" />
+   <img src="coral-reef-med.jpg" alt="medium quality jpg" />
     <p>Medium quality (%). File size: </p>
 
    <img src="coral-reef-high.jpg" alt="high quality jpg" />
@@ -22,7 +22,7 @@
    <img src="coral-reef-very-high.jpg" alt="very high quality jpg" />
     <p>Very quality (%). File size: </p>
 
-   <img src="coral-reef-maximum.jpg" alt="maximum quality jpg" />
+   <img src="coral-reef-max.jpg" alt="maximum quality jpg" />
     <p>Maximum quality (%). File size: </p>
 
 
