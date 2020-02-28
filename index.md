@@ -25,6 +25,5 @@
    <img src="coral-reef-max.jpg" alt="maximum quality jpg" />
     <p>Maximum quality (%). File size: </p>
 
-
   </body>
 </html>
